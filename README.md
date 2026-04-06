@@ -1,4 +1,4 @@
-# 🎙️ VibeVoice AI Studio
+# 🎙️ Zora Voice Studio
 
 A premium, privacy-focused Text-to-Speech (TTS) engine built for creators. No storage, no tracking—just pure performance.
 
